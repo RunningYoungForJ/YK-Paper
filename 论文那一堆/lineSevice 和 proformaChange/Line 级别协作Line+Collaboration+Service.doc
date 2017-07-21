@@ -1,0 +1,771 @@
+Message-ID: <29859643.19.1497580380378.JavaMail.js-confluence@baiwangtradeshift.atlassian.net>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_18_20980659.1497580380376"
+
+------=_Part_18_20980659.1497580380376
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Line Collaboration Service</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Line Collaboration Service</h1>
+    <div class=3D"Section1">
+        <p>0, =E7=9B=B8=E5=85=B3=E4=BA=A7=E5=93=81=E8=AE=BE=E8=AE=A1=E6=96=
+=87=E6=A1=A3&nbsp;</p>
+<p>&nbsp; &nbsp;&nbsp;<a href=3D"/wiki/pages/viewpage.action?pageId=3D49399=
+611" data-linked-resource-id=3D"49399611" data-linked-resource-version=3D"5=
+0" data-linked-resource-type=3D"page">=E6=A0=B9=E6=8D=AE=E5=AF=B9=E8=B4=A6=
+=E5=8D=95=E5=BC=80=E7=A5=A8 create from reconciliation P-AP-IEG-04.01.01.01=
+.03</a></p>
+<p><br></p>
+<p>1, Structure/Sequence Diagram in different component, more details&nbsp;=
+[<a href=3D"https://drive.google.com/open?id=3D0By2lolbaoqSKOVE0aGY0Qy1ldlE=
+" class=3D"external-link" rel=3D"nofollow">Link</a>]</p>
+<p><span class=3D"confluence-embedded-file-wrapper confluence-embedded-manu=
+al-size"><img class=3D"confluence-embedded-image" height=3D"96" src=3D"a76a=
+63097320ce33d520e06643ea6c0b" data-image-src=3D"https://baiwangtradeshift.a=
+tlassian.net/wiki/download/attachments/49993182/Line%20Collaboration%20Serv=
+ice%20(3).png?version=3D1&amp;modificationDate=3D1493951056314&amp;cacheVer=
+sion=3D1&amp;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-reso=
+urce-id=3D"49997502" data-linked-resource-version=3D"1" data-linked-resourc=
+e-type=3D"attachment" data-linked-resource-default-alias=3D"Line Collaborat=
+ion Service (3).png" data-base-url=3D"https://baiwangtradeshift.atlassian.n=
+et/wiki" data-linked-resource-content-type=3D"image/png" data-linked-resour=
+ce-container-id=3D"49993182" data-linked-resource-container-version=3D"31" =
+data-media-id=3D"d69006c3-c641-43b2-ab2c-f98d5f13a8ed" data-media-type=3D"f=
+ile" width=3D"468"></span></p>
+<p>2, Table&nbsp;[<a href=3D"https://docs.google.com/a/cn.tradeshift.com/do=
+cument/d/1JlVKhUC7hjchaY8xSAtlHJGYKZbROnUCEHZSWX8HoPU/edit?usp=3Dsharing" c=
+lass=3D"external-link" rel=3D"nofollow">Link in Google Doc</a>] &nbsp;</p>
+<p>&nbsp; &nbsp; REF: UBL-InvoiceLine/Item <a href=3D"http://www.datypic.co=
+m/sc/ubl20/e-cac_InvoiceLine.html" class=3D"external-link" rel=3D"nofollow"=
+>http://www.datypic.com/sc/ubl20/e-cac_InvoiceLine.html</a>&nbsp;&nbsp;<a h=
+ref=3D"http://www.datypic.com/sc/ubl20/e-cac_Item.html" class=3D"external-l=
+ink" rel=3D"nofollow">http://www.datypic.com/sc/ubl20/e-cac_Item.html</a></=
+p>
+<p><br></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: sql; gutter: true; first-line: 1; theme: Eclipse" data-theme=3D"Eclipse">=
+CREATE TABLE selfbilledinvoice_lines (
+  id uuid =20
+  type character varying(45) NOT NULL,
+  displayid character   =20
+  issuedate timestamp ,
+  status character   --Line Level approve or reject
+  --Document Information
+  documentid uuid=20
+  documentdisplayid character =20
+  documentstatus character =20
+  --Status
+  proformaissuedstatus character =20
+  fapiaoissuedstatus character =20
+  accountrecordedstatus character =20
+  --Line Information
+  quantity =20
+  price =20
+  taxrate
+  priceincludetax,=20
+  totalprice,=20
+  totalpriceincludetax =20
+  selleritemid character =20
+  buyeritemid character =20
+  standarditemid  -- commodity code
+  itemname character =20
+  itemmodelname character=20
+  --WHO information
+  receiverid uuid  --tenantid
+  senderid uuid --tenantid
+  created timestamp ,
+  modified timestamp=20
+  --other customized information?
+)
+
+create table LINE_METADATA{
+  lineid
+  key  (transactionid, receiptadviceid, orderid)
+  value
+}
+
+
+</pre>=20
+</div>
+</div>
+<p class=3D"auto-cursor-target">3, =E7=94=9F=E6=88=90proforma=E7=9A=84=E6=
+=97=B6=E5=80=99=E5=A6=82=E4=BD=95=E5=AD=98=E5=82=A8=E5=85=B3=E8=81=94line=
+=EF=BC=9B=E4=BB=A5=E5=8F=8Aupdateline=E7=9A=84=E6=97=B6=E5=80=99=E5=A6=82=
+=E4=BD=95=E8=8E=B7=E5=8F=96=E5=85=B3=E8=81=94line</p>
+<p>=E5=9C=A8InvoiceLine=E9=87=8C=E9=9D=A2=EF=BC=9A</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: xml; gutter: false; theme: Eclipse" data-theme=3D"Eclipse">&lt;cac:Billin=
+gReference&gt;
+      &lt;cac:SelfBilledInvoiceDocumentReference&gt;
+         &lt;cbc:ID&gt;2222222222&lt;/cbc:ID&gt;
+=09=09 &lt;cbc:IssueDate&gt;2017-09-09&lt;/cbc:IssueDate&gt;
+      &lt;/cac:SelfBilledInvoiceDocumentReference&gt;
+      &lt;cac:BillingReferenceLine&gt;
+        &lt;cbc:ID&gt;1&lt;/cbc:ID&gt;
+      &lt;/cac:BillingReferenceLine&gt;
+&lt;/cac:BillingReference&gt;
+&lt;cac:BillingReference&gt;
+      &lt;cac:SelfBilledInvoiceDocumentReference&gt;
+         &lt;cbc:ID&gt;3333333333&lt;/cbc:ID&gt;
+=09=09 &lt;cbc:IssueDate&gt;2017-09-08&lt;/cbc:IssueDate&gt;
+      &lt;/cac:SelfBilledInvoiceDocumentReference&gt;
+      &lt;cac:BillingReferenceLine&gt;
+        &lt;cbc:ID&gt;2&lt;/cbc:ID&gt;
+      &lt;/cac:BillingReferenceLine&gt;
+&lt;/cac:BillingReference&gt;
+
+
+InvoiceLine:=20
+
+"LineId": "1",
+"Description": "1",
+"Quantity": {
+  "unitCode": "EA",
+  "value": 40
+},
+
+"BillingReferences": [
+
+      {
+          "SelfBilledInvoiceDocumentReference": {
+            "ID": {
+              "value": "2392"
+            },
+            "IssueDate": {
+              "value": "2017-09-11"
+            }
+          },
+          "BillingReferenceLine": [
+            {
+              "ID": {
+                "value": "1"
+              },
+              "Amount": {
+                "value": 100
+              }
+            }
+          ]
+        },
+        {
+          "SelfBilledInvoiceDocumentReference": {
+            "ID": {
+              "value": "2392"
+            },
+            "IssueDate": {
+              "value": "2017-09-12"
+            }
+          },
+          "BillingReferenceLine": [
+            {
+              "ID": {
+                "value": "1"
+              },
+              "Amount": {
+                "value": -30
+              }
+            }
+          ]
+        },
+        {
+          "SelfBilledInvoiceDocumentReference": {
+            "ID": {
+              "value": "2393"
+            },
+            "IssueDate": {
+              "value": "2017-09-14"
+            }
+          },
+          "BillingReferenceLine": [
+            {
+              "ID": {
+                "value": "10"
+              },
+              "Amount": {
+                "value": -30
+              }
+            }
+          ]
+        }
+      ]</pre>=20
+</div>
+</div>
+<p><br></p>
+<p>4=EF=BC=8C =E8=81=94=E8=B0=83=E7=8A=B6=E6=80=81=E8=B7=9F=E8=B8=AA</p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 88.=
+6575%;">
+<colgroup>
+<col style=3D"width: 10.0804%;">
+<col style=3D"width: 57.7613%;">
+<col style=3D"width: 16.3265%;">
+<col style=3D"width: 15.8318%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E5=BA=8F=E5=8F=B7</th>
+<th class=3D"confluenceTh">=E6=8F=8F=E8=BF=B0</th>
+<th class=3D"confluenceTh">=E8=B4=9F=E8=B4=A3=E4=BA=BA</th>
+<th class=3D"confluenceTh">=E7=8A=B6=E6=80=81</th>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>=E4=B8=BB=E6=B5=81=E7=A8=
+=8B</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">1</td>
+<td class=3D"confluenceTd">=E5=AF=B9=E8=B4=A6=E5=8D=95=E4=B8=8A=E4=BC=A0=E8=
+=83=BD=E5=B0=86line=E4=BF=9D=E5=AD=98=E5=88=B0lineService=E9=87=8C=E9=9D=A2=
+=E5=8E=BB</td>
+<td class=3D"confluenceTd">Allen</td>
+<td class=3D"confluenceTd">Ready</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">2</td>
+<td class=3D"confluenceTd">=E9=87=8D=E4=BC=A0=E5=AF=B9=E8=B4=A6=E5=8D=95=E8=
+=83=BD=E5=B0=86=E6=9C=80=E6=96=B0=E7=8A=B6=E6=80=81update=E5=88=B0lineServi=
+ce=E9=87=8C=E9=9D=A2=E5=8E=BB - Proforma=E6=9C=AA=E5=BC=80</td>
+<td class=3D"confluenceTd">Jack</td>
+<td class=3D"confluenceTd">Ready</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">3</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E9=87=8D=E4=BC=A0=E5=AF=B9=E8=B4=
+=A6=E5=8D=95=E8=83=BD=E5=B0=86property=E4=BF=9D=E5=AD=98=E5=88=B0ES=E4=B8=
+=AD[ quantity_after_retransmission, quantity_has_recorded]=EF=BC=8C <span>=
+=E5=89=8D=E7=AB=AF=E6=8B=89=E5=8F=96ES=E7=9A=84=E6=95=B0=E6=8D=AE=E6=98=BE=
+=E7=A4=BA=E5=87=BA=E6=9D=A5</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Kimi/Yao/Allen</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>IN_PROGRESS</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">4</td>
+<td colspan=3D"1" class=3D"confluenceTd">Proforma=E5=88=9B=E5=BB=BA=E7=9A=
+=84=E6=97=B6=E5=80=99=E8=83=BD=E5=A4=9Fupdate LineService=E4=B8=AD=E7=9A=84=
+proformaStatus [NOT_YET =E2=86=92 ISSUED]</td>
+<td colspan=3D"1" class=3D"confluenceTd">JD/Mook</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Ready</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">5</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E7=9B=B4=E8=BF=9E=E5=BC=80=E7=A5=
+=A8=EF=BC=8C=E5=B0=86=E8=BF=94=E5=9B=9E=E7=BB=93=E6=9E=9C=E5=9B=9E=E5=86=99=
+=E5=88=B0lineService=EF=BC=8C=E6=9B=B4=E6=96=B0fapiaoStatus<span> </span><s=
+pan>[NOT_YET </span><span>=E2=86=92 ISSUED</span><span>]</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">JD/Victor</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Ready</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">6</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>=E7=9B=B4=E8=BF=9E=E5=BC=80=
+=E7=A5=A8=EF=BC=8C=E8=BF=94=E5=9B=9Emockfapiaolist=E5=B9=B6=E5=9C=A8=E5=89=
+=8D=E7=AB=AF=E6=98=BE=E7=A4=BA</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">JD/Yawen</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Ready</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">7</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=89=8D=E7=AB=AF=E5=8B=BE=E9=80=
+=89=E5=AF=B9=E8=B4=A6=E5=8D=95=E5=B9=B6=E5=B0=86=E5=8B=BE=E9=80=89=E7=9A=84=
+docid_lineid=E4=BC=A0=E8=BE=93=E5=88=B0CreateProforma=E9=A1=B5=E9=9D=A2[=E5=
+=81=87=E5=A6=82=E6=9F=90=E4=B8=80=E8=A1=8C=E7=9A=84status=E4=B8=8D=E4=B8=BA=
+orignal =E9=82=A3=E4=B9=88=E9=9C=80=E8=A6=81=E8=AF=B7=E6=B1=82lineService=
+=E6=9D=A5=E6=8B=BF=E5=88=B0=E5=8E=9F=E5=A7=8B=E8=A1=8C]</td>
+<td colspan=3D"1" class=3D"confluenceTd">Kimi/Allen</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>IN_PROGRESS</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">8</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=A0=B9=E6=8D=AE=E5=8B=BE=E9=80=
+=89=E5=AF=B9=E8=B4=A6=E5=8D=95=E5=90=88=E5=B9=B6=E7=94=9F=E6=88=90template,=
+ =E5=B9=B6=E5=90=88=E5=B9=B6transactionId=E4=B8=80=E6=A0=B7=E7=9A=84=E8=A1=
+=8C=EF=BC=8C<span>=E5=9C=A8CreateProforma=E7=9A=84=E9=A1=B5=E9=9D=A2=E6=98=
+=BE=E7=A4=BA=E5=8E=86=E5=8F=B2=E4=BF=A1=E6=81=AF</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">JD/Happy</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>IN_PROGRESS</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><strong>=E5=AF=B9=E8=B4=A6=E5=8D=
+=95=E9=87=8D=E4=BC=A0</strong></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">9</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>=E5=AF=B9=E8=B4=A6=E5=8D=95=
+=E9=87=8D=E4=BC=A0=E5=B0=86<span>=E6=9C=80=E6=96=B0=E7=8A=B6=E6=80=81update=
+=E5=88=B0lineService=E9=87=8C=E9=9D=A2=E5=8E=BB - Proforma=E5=B7=B2=E5=BC=
+=80 Fapiao=E6=9C=AA=E5=BC=80=EF=BC=8C =E4=BB=A5=E5=8F=8AFapiao=E5=B7=B2=E5=
+=BC=80 ----- =E9=9C=80=E8=A6=81=E6=A0=B9=E6=8D=AEDevin=E6=8F=90=E4=BE=9B=E7=
+=9A=84=E6=96=87=E6=A1=A3=E8=BF=9B=E8=A1=8C=E6=8A=80=E6=9C=AF=E5=AE=9E=E7=8E=
+=B0</span></span></td>
+<td colspan=3D"1" class=3D"confluenceTd">Allen</td>
+<td colspan=3D"1" class=3D"confluenceTd">IN_PROGRESS</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">10</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=AF=B9=E8=B4=A6=E5=8D=95=E9=87=
+=8D=E4=BC=A0=EF=BC=8C=E7=94=A8=E6=88=B7=E6=89=8B=E5=B7=A5=E6=8B=92=E7=BB=9D=
+=E4=B9=8B=E5=89=8D=E7=9A=84proforma=EF=BC=8C=E9=87=8A=E6=94=BE=E5=B7=B2=E5=
+=8B=BE=E9=80=89=E7=9A=84=E5=AF=B9=E8=B4=A6=E5=8D=95=E8=A1=8C</td>
+<td colspan=3D"1" class=3D"confluenceTd">Olie</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>IN_PROGRESS</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>TODO: lineService=E8=A6=81=E4=B8=8D=E8=A6=81=E9=80=9A=E8=BF=87proxy=E6=
+=9D=A5=E6=9A=B4=E9=9C=B2=E7=BB=99=E5=89=8D=E7=AB=AF=E7=9B=B4=E6=8E=A5=E4=BD=
+=BF=E7=94=A8=EF=BC=9F =E6=BD=9C=E5=9C=A8=E9=97=AE=E9=A2=98=EF=BC=9AlineServ=
+ice=E6=B2=A1=E6=9C=89=E8=BF=9B=E8=A1=8C=E6=9D=83=E9=99=90=E6=8E=A7=E5=88=B6=
+</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_18_20980659.1497580380376
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/a76a63097320ce33d520e06643ea6c0b
+
+iVBORw0KGgoAAAANSUhEUgAABLwAAAD6CAMAAACcT65qAAADAFBMVEX+/v7o6OjHx8fX19e2traq
+qqqYmJiIiIh5eXloaGg2NjYEBAQnJycXFxdaWlpFRUUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAACRsVXUAAABAHRSTlP/////////////////////AAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+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
+Cv8DnAYBkvbnLokAAAAASUVORK5CYII=
+------=_Part_18_20980659.1497580380376--

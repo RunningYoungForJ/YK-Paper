@@ -1,0 +1,613 @@
+Message-ID: <26897537.53.1497597336865.JavaMail.js-confluence@baiwangtradeshift.atlassian.net>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_52_6887731.1497597336865"
+
+------=_Part_52_6887731.1497597336865
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>All in one -- Invoice</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>All in one -- Invoice</h1>
+    <div class=3D"Section1">
+        <p>1=EF=BC=8C Invoice Profile</p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 97.=
+3529%;">
+<colgroup>
+<col style=3D"width: 7.40741%;">
+<col style=3D"width: 6.57596%;">
+<col style=3D"width: 10.2797%;">
+<col style=3D"width: 21.0884%;">
+<col style=3D"width: 54.6485%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Document</th>
+<th colspan=3D"1" class=3D"confluenceTh">Doc Type</th>
+<th class=3D"confluenceTh">InvoiceTypeCode</th>
+<th colspan=3D"1" class=3D"confluenceTh">profile in BE</th>
+<th class=3D"confluenceTh">Profile in UBL</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Invoice</td>
+<td colspan=3D"1" class=3D"confluenceTd">Invoice</td>
+<td class=3D"confluenceTd">380</td>
+<td colspan=3D"1" class=3D"confluenceTd">tradeshift.invoice.1.0</td>
+<td class=3D"confluenceTd"><span><span style=3D"color: rgb(0,0,0);">&lt;cbc=
+:ProfileID schemeAgencyID=3D"CEN/ISSS WS/BII" schemeID=3D"CWA 16073:2010" s=
+chemeVersionID=3D"1"&gt;urn:</span><a rel=3D"nofollow"><span style=3D"color=
+: rgb(17,85,204);text-decoration: underline;">www.cenbii.eu:profile:bii04:v=
+er1.0</span></a><span style=3D"color: rgb(0,0,0);">&lt;/cbc:ProfileID&gt;</=
+span></span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Fapiao</p><p>=E5=8F=91=E7=A5=A8=
+</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Invoice</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">380</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>tradeshift.invoice.fapiao.1.=
+0 </span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span><span style=3D"color: rgb(0,=
+0,0);">&lt;cbc:ProfileID schemeAgencyID=3D"<a rel=3D"nofollow">http://trade=
+shift.com"&gt;urn:tradeshift.com:profile:fapiao:ver1.0&lt;/cbc:ProfileID</a=
+>&gt;</span></span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Proforma</p><p>=E5=BD=A2=E5=BC=
+=8F=E5=8F=91=E7=A5=A8</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Invoice</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">325</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>tradeshift.invoice.profor=
+ma.s1.0</span></p><p><span><span>tradeshift.invoice.proforma.s2.0 </span></=
+span></p><p><span><span>tradeshift.invoice.proforma.s3.0</span></span></p><=
+p>proforma2.0/proforma3.0 will be used in Solution2/Solution3, with differe=
+nt businesslogic in Backend/ different BusinessFireWall.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>&lt;cbc:ProfileID schemeAgencyID=3D"</span><a rel=3D"nofollow">http://trad=
+eshift.com"&gt;urn:tradeshift.com:profile:proforma:ver1.0&lt;/cbc:ProfileID=
+</a><span style=3D"color: rgb(0,0,0);">&gt;</span></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>MockFapiao</p><p><span>=E9=A2=84=E5=88=B6=E5=
+=8F=91=E7=A5=A8</span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Invoice</span></td>
+<td class=3D"confluenceTd">325</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>tradeshift.invoice.mockfapia=
+o.1.0</span></td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);">&lt;cbc:Profi=
+leID schemeAgencyID=3D"</span><a rel=3D"nofollow">http://tradeshift.com"&gt=
+;urn:tradeshift.com:profile:mockfapiao:ver1.0&lt;/cbc:ProfileID</a><span st=
+yle=3D"color: rgb(0,0,0);">&gt;</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 100=
+.0%;">
+<colgroup>
+<col>
+<col style=3D"width: 14.496%;">
+<col style=3D"width: 10.0074%;">
+<col style=3D"width: 31.5673%;">
+<col style=3D"width: 43.9294%;">
+</colgroup>
+<tbody>
+<tr>
+<th colspan=3D"1" class=3D"confluenceTh">Document</th>
+<th class=3D"confluenceTh">Doc</th>
+<th class=3D"confluenceTh">InvoiceTypeCode</th>
+<th class=3D"confluenceTh">profile in BE</th>
+<th class=3D"confluenceTh">Profile in UBL</th>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>SelfBilledInvoice</span></td=
+>
+<td class=3D"confluenceTd">SelfBilledInvoice</td>
+<td class=3D"confluenceTd">389</td>
+<td class=3D"confluenceTd"><pre>tradeshift.selfbilledinvoice.1.0</pre></td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);">&lt;cbc:Profi=
+leID schemeAgencyID=3D"</span><a rel=3D"nofollow">http://tradeshift.com"&gt=
+; urn:tradeshift.com:profile:selfbilledinvoice</a><a rel=3D"nofollow">:ver1=
+.0&lt;/cbc:ProfileID</a><span style=3D"color: rgb(0,0,0);">&gt;</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Reconciliation/DuizhangDan</=
+span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>SelfBilledInvoice</span></td=
+>
+<td colspan=3D"1" class=3D"confluenceTd"><span>389</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><pre>tradeshift.selfbilledinvoice.=
+duizhang.1.0</pre></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>&lt;cbc:ProfileID schemeAgencyID=3D"</span><a rel=3D"nofollow">http://trad=
+eshift.com"&gt; urn:tradeshift.com:profile:duizhang</a><a rel=3D"nofollow">=
+:ver1.0&lt;/cbc:ProfileID</a><span style=3D"color: rgb(0,0,0);">&gt;</span>=
+</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>GuazhangDan</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>SelfBilledInvoice</span></td=
+>
+<td colspan=3D"1" class=3D"confluenceTd"><span>389</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><pre>tradeshift.selfbilledinvoice.=
+guazhang.1.0</pre></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>&lt;cbc:ProfileID schemeAgencyID=3D"</span><a rel=3D"nofollow">http://trad=
+eshift.com"&gt; urn:tradeshift.com:profile:guazhang</a><a rel=3D"nofollow">=
+:ver1.0&lt;/cbc:ProfileID</a><span style=3D"color: rgb(0,0,0);">&gt;</span>=
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>2=EF=BC=8C Additional Fields used in Invoice</p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 91.=
+4706%;">
+<colgroup>
+<col style=3D"width: 13.1134%;">
+<col>
+<col style=3D"width: 9.41271%;">
+<col style=3D"width: 24.7788%;">
+<col style=3D"width: 52.6951%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Doc/Line</th>
+<th colspan=3D"1" class=3D"confluenceTh">Level</th>
+<th class=3D"confluenceTh">Field</th>
+<th class=3D"confluenceTh">Constant as DocumentTypeCode in Additional Docum=
+ent Reference or Document Reference</th>
+<th colspan=3D"1" class=3D"confluenceTh">Example in UBL</th>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Fapiao</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">Document</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=8F=91=E7=A5=A8=E5=8F=B7=E7=A0=
+=81</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Fapiao_Number</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>&lt;cac:AdditionalDocumentRefer=
+ence&gt;<br> &lt;cbc:ID&gt;00000000000020&lt;/cbc:ID&gt;<br> &lt;cbc:Docume=
+ntTypeCode listID=3D"urn:<a href=3D"http://tradeshift.com" class=3D"externa=
+l-link" rel=3D"nofollow">tradeshift.com</a>:api:1.0:documenttypecode"&gt;<s=
+pan>Fapiao_Number</span>&lt;/cbc:DocumentTypeCode&gt;<br> &lt;/cac:Addition=
+alDocumentReference&gt;</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Fapiao</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Document</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=8F=91=E7=A5=A8=E4=BB=A3=E7=A0=
+=81</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span><span>Fapiao_Code</span></sp=
+an></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Fapiao</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Document</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=A0=A1=E9=AA=8C=E7=A0=81</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span><span>Fapiao_</span>CheckCod=
+e</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Fapiao</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Document</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>=E6=94=B6=E6=AC=BE=E4=BA=BA<=
+/span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Fapiao_Payee</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><span>Fapiao</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Document</span></td>
+<td class=3D"confluenceTd">=E5=A4=8D=E6=A0=B8=E4=BA=BA</td>
+<td class=3D"confluenceTd"><span><span>Fapiao_</span>Checker</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Fapiao</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Document</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=BC=80=E7=A5=A8=E4=BA=BA</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span><span>Fapiao_</span>Issuer</=
+span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Fapiao</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Document</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=85=B3=E8=81=94=E5=8F=91=E7=A5=
+=A8</td>
+<td colspan=3D"1" class=3D"confluenceTd">DOC_REF_MOCKFAPIAO</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><span>Proforma(in s2)</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Document</span></td>
+<td class=3D"confluenceTd">=E5=BF=AB=E9=80=92=E5=8D=95=E5=8F=B7</td>
+<td class=3D"confluenceTd"><pre>EXPRESS</pre></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Proforma(in s2)</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Document</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=85=B3=E8=81=94=E5=8F=91=E7=A5=
+=A8</td>
+<td colspan=3D"1" class=3D"confluenceTd"><pre><span style=3D"color: rgb(0,1=
+28,0);">DOC_REF_FAPIAO=E3=80=90number_code=E3=80=91</span></pre></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>ProformaLine( in s3)</span><=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Line</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><pre>=E5=85=B3=E8=81=94=E5=AF=B9=
+=E8=B4=A6=E5=8D=95</pre></td>
+<td colspan=3D"1" class=3D"confluenceTd"><pre>DOC_REF_SELFBILLEDINVOICE</pr=
+e></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>MockFapiao</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Document</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=9F=BA=E4=BA=8E=E7=9A=84Proform=
+a</td>
+<td colspan=3D"1" class=3D"confluenceTd"><pre><span style=3D"color: rgb(0,1=
+28,0);">DOC_REF_PROFORMA</span></pre></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>SelfBilledInvoiceLine</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Line</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=85=A5=E5=BA=93=E5=8D=95=E5=8F=
+=B7</td>
+<td colspan=3D"1" class=3D"confluenceTd">WAREHOUSEVOUCHER_ID</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>&lt;cac:DocumentReference&gt=
+;</span><br><span> &lt;cbc:ID&gt;2222222&lt;/cbc:ID&gt;</span><br><span> &l=
+t;cbc:DocumentTypeCode listID=3D"urn:</span><a href=3D"http://tradeshift.co=
+m/" class=3D"external-link" rel=3D"nofollow">tradeshift.com</a><span>:api:1=
+.0:documenttypecode"&gt;<span>WAREHOUSEVOUCHER_ID</span>&lt;/cbc:DocumentTy=
+peCode&gt;</span><br><span>&lt;/cac:DocumentReference&gt;</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>SelfBilledInvoiceLine</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Line</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E4=BA=8B=E5=8A=A1ID</td>
+<td colspan=3D"1" class=3D"confluenceTd">TRANSACTION_ID</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><br></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>SelfBilledInvoiceLine</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span><span>Line</span><br></span>=
+</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E8=AE=A2=E5=8D=95=E5=8F=B7</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>ORDER_ID</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>SelfBilledInvoiceLine</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Line</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E7=89=A9=E6=96=99=E4=BB=A3=E7=A0=
+=81</td>
+<td colspan=3D"1" class=3D"confluenceTd">MATERIAL_Code</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>&lt;cac:DocumentReference&gt=
+;</span><br><span> &lt;cbc:ID&gt;1.3.03.01.00218&lt;/cbc:ID&gt;</span><br><=
+span> &lt;cbc:DocumentTypeCode listID=3D"urn:</span><a href=3D"http://trade=
+shift.com/" class=3D"external-link" rel=3D"nofollow">tradeshift.com</a><spa=
+n>:api:1.0:documenttypecode"&gt;<span>MATERIAL_Code</span>&lt;/cbc:Document=
+TypeCode&gt;</span><br><span>&lt;/cac:DocumentReference&gt;</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>SelfBilledInvoiceLine</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Line</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E9=87=8D=E4=BC=A0=E6=A0=87=E8=AF=
+=86</td>
+<td colspan=3D"1" class=3D"confluenceTd">RETRANSMISSION_FLAG</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>&lt;cac:DocumentReference&gt=
+;</span><br><span> &lt;cbc:ID&gt;true&lt;/cbc:ID&gt;</span><br><span> &lt;c=
+bc:DocumentTypeCode listID=3D"urn:</span><a href=3D"http://tradeshift.com/"=
+ class=3D"external-link" rel=3D"nofollow">tradeshift.com</a><span>:api:1.0:=
+documenttypecode"&gt;<span>RETRANSMISSION_FLAG</span>&lt;/cbc:DocumentTypeC=
+ode&gt;</span><br><span>&lt;/cac:DocumentReference&gt;</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<p>4=EF=BC=8C S3=E5=9F=BA=E6=9C=AC=E6=B5=8B=E8=AF=95Case</p>
+<p style=3D"margin-left: 30.0px;">4.1 =E4=B8=8A=E4=BC=A0=E5=AF=B9=E8=B4=A6=
+=E5=8D=95</p>
+<p style=3D"margin-left: 30.0px;">4.2 =E5=8B=BE=E9=80=89=E5=BD=A2=E6=88=90p=
+roforma (<span style=3D"color: rgb(255,0,0);">total =E5=9C=A8=E9=A1=B5=E9=
+=9D=A2=E4=B8=8A=E6=98=BE=E7=A4=BA=E4=B8=BAnull</span>)</p>
+<p style=3D"margin-left: 30.0px;">&nbsp; &nbsp; &nbsp; 4.2.1 =E5=AF=B9=E8=
+=B4=A6=E5=8D=95=E8=A1=8C=E4=B8=8A=E7=9A=84DocumentReference=E4=BF=A1=E6=81=
+=AF =E8=A2=AB=E5=B8=A6=E5=88=B0invoice =E7=9A=84line=E9=87=8C=E9=9D=A2=EF=
+=BC=88<span style=3D"color: rgb(255,0,0);">=E9=9C=80=E4=B8=8D=E9=9C=80=E8=
+=A6=81=E5=9C=A8=E9=A1=B5=E9=9D=A2=E4=B8=8A=E6=98=BE=E7=A4=BA</span>=EF=BC=
+=89</p>
+<p style=3D"margin-left: 30.0px;">&nbsp; &nbsp; &nbsp; 4.2.2 invoiceline=E9=
+=87=8C=E9=9D=A2=E6=9C=89=E5=AF=B9=E5=AF=B9=E8=B4=A6=E5=8D=95=E7=9A=84=E5=BC=
+=95=E7=94=A8=EF=BC=88<span style=3D"color: rgb(255,0,0);">=E7=8E=B0=E5=9C=
+=A8=E8=A2=AB=E6=94=BE=E5=88=B0orderReference=E9=87=8C=E9=9D=A2=E4=BA=86</sp=
+an>=EF=BC=89</p>
+<p style=3D"margin-left: 30.0px;">&nbsp; &nbsp; &nbsp; 4.2.3 =E5=AF=B9=E8=
+=B4=A6=E5=8D=95=E6=9C=89=E5=B7=B2=E7=94=9F=E6=88=90proforma=E7=9A=84propert=
+y(<span style=3D"color: rgb(0,255,0);">done</span>)</p>
+<p style=3D"margin-left: 30.0px;">4.3 proforma split=E6=88=90mockfapiao</p>
+<p style=3D"margin-left: 30.0px;">&nbsp; &nbsp; &nbsp; 4.3.1 mockfapiao=E4=
+=B8=AD=E6=9C=89=E5=AF=B9proforma=E7=9A=84=E5=BC=95=E7=94=A8=EF=BC=88<span s=
+tyle=3D"color: rgb(0,255,0);">done</span>=EF=BC=89</p>
+<p style=3D"margin-left: 30.0px;">&nbsp; &nbsp; &nbsp; 4.3.2 mockfapiao=E4=
+=B8=AD=E6=9C=89parentProforma=E7=9A=84property (<span style=3D"color: rgb(0=
+,255,0);">done</span>)&nbsp;=E2=80=93&nbsp;DOC_REF_PROFORMA</p>
+<p style=3D"margin-left: 30.0px;">&nbsp; &nbsp; &nbsp; 4.3.3 proforma=E7=9A=
+=84property=E4=B8=AD=E6=9C=89count=E4=BB=A5=E5=8F=8Aids=E7=9A=84=E4=BF=A1=
+=E6=81=AF=EF=BC=88<span style=3D"color: rgb(0,255,0);">done</span>=EF=BC=89=
+-- generatedFapiaoCount</p>
+<p style=3D"margin-left: 30.0px;"><span style=3D"color: rgb(0,255,0);">done=
+</span>4.4 =E5=AF=BC=E5=87=BA=E5=BC=80=E7=A5=A8</p>
+<p style=3D"margin-left: 30.0px;">&nbsp; &nbsp; &nbsp; 4.4.1 =E5=AF=BC=E5=
+=87=BA=E7=9A=84=E7=A5=A8 =E5=8C=85=E5=90=ABmockfapiao=E7=9A=84number</p>
+<p style=3D"margin-left: 30.0px;">4.5 supplier=E6=89=AB=E7=A0=81=E5=9B=9E=
+=E5=A1=AB</p>
+<p style=3D"margin-left: 30.0px;">&nbsp; &nbsp; &nbsp; 4.5.1 mockfapiao=E7=
+=9A=84property=E4=B8=AD=E6=9C=89=E4=BA=86=E5=9B=9B=E5=AD=97=E6=AE=B5=E7=9A=
+=84=E4=BF=A1=E6=81=AF(<span style=3D"color: rgb(0,255,0);">done</span>)</p>
+<p style=3D"margin-left: 30.0px;">&nbsp; &nbsp; &nbsp; 4.5.2 proforma=E4=B8=
+=AD=E6=9C=89=E4=BA=86=E5=BF=AB=E9=80=92=E5=8D=95=E5=8F=B7=E7=9A=84=E4=BF=A1=
+=E6=81=AF(<span style=3D"color: rgb(0,255,0);">done</span>)</p>
+<p>5=EF=BC=8C S2=E5=9F=BA=E6=9C=AC=E6=B5=8B=E8=AF=95</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; 5.1 =E5=88=9B=E5=BB=BA=E4=B8=8A=E4=BC=A0prof=
+orma&nbsp;[ <a href=3D"/wiki/download/attachments/49718519/proforma_s2_exam=
+ple.xml?version=3D1&amp;modificationDate=3D1493172964337&amp;cacheVersion=
+=3D1&amp;api=3Dv2" data-linked-resource-id=3D"49864325" data-linked-resourc=
+e-version=3D"1" data-linked-resource-type=3D"attachment" data-linked-resour=
+ce-default-alias=3D"proforma_s2_example.xml" data-nice-type=3D"XML File" da=
+ta-linked-resource-content-type=3D"text/xml" data-linked-resource-container=
+-id=3D"49718519" data-linked-resource-container-version=3D"42">proforma_s2_=
+example.xml</a>&nbsp;]</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.1.1 proforma=E4=B8=AD=
+=E6=9C=89count=E7=9A=84property (<span style=3D"color: rgb(0,255,0);">done<=
+/span>)</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.1.2 proforma=E4=B8=AD=
+=E6=9C=89fapiao-number+code=E7=BB=84=E6=88=90=E7=9A=84tag(<span style=3D"co=
+lor: rgb(0,255,0);">done</span>)</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.1.3 proforma=E4=B8=AD=
+=E6=9C=89=E5=BF=AB=E9=80=92=E5=8D=95=E5=8F=B7=E7=9A=84property=EF=BC=88<spa=
+n style=3D"color: rgb(0,255,0);">done</span>=EF=BC=89</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_52_6887731.1497597336865--
